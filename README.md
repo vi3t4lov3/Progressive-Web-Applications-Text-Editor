@@ -1,7 +1,7 @@
 # Progressive Web Applications
 Repo: https://github.com/vi3t4lov3/Progressive-Web-Applications-Text-Editor
 
-Deployed link: 
+Deployed link: https://mighty-sea-81861.herokuapp.com
 ## Description
 This is a simple Progressive Web App (PWA) named text editor. This app uses both IndexedDB and Localstorage for persistent data.
 The application will first search for data stored in indexedDb, but if there is no result then it will move in localStorage to populate the editor when it is loaded. As a PWA, this app is also capable to operate offline and save data locally on the user's devices.
@@ -63,7 +63,7 @@ NO TEST THIS TIME
 ## Demo
 ![imagename](./client/src/images/demo.png)
 
-[Deployed link] (https://www.youtube.com/watch?v=929Bt5nxw5s) 
+[Deployed link] (https://mighty-sea-81861.herokuapp.com) 
 
 ## Questions
 
