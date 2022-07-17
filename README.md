@@ -1,5 +1,6 @@
 # Progressive Web Applications
 Repo: https://github.com/vi3t4lov3/Progressive-Web-Applications-Text-Editor
+
 Deployed link: 
 ## Description
 This is a simple Progressive Web App (PWA) named text editor. This app uses both IndexedDB and Localstorage for persistent data.
